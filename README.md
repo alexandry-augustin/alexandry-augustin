@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Alexandry Augustin</h1>
+<h3 align="center">Data Scientist and Tech Lover</h3>
 
-<!--
-**alexandry-augustin/alexandry-augustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced data scientist and software developer with extensive knowledge in machine learning, Bayesian statistics, Python, and C++ (PhD and postdoctoral level). I have a growing interest in advanced data visualisation to communicate complex information clearly and efficiently. I am always looking to solve new challenges with data to drive insights and make robust predictions for my clients.
 
-Here are some ideas to get you started:
+# Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project Name           | Keywords                                                     | Description                                                  | Repository                                                   | Live Demo                                |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |
+| Professional Blog      | website, HTML, JavaScript, CSS, 11ty, nunjucks, Boostrap, Chart.js, MongoDB | Projects, blog posts, and what I'm up to generally.          | <a href="https://github.com/alexandry-augustin/professional-blog-public">url</a> | <a href="alexandryaugustin.com/">url</a> |
+| MBCC                   | Bayesian Statistics, Crowdsourcing, C#, LaTex                | Code, manuscript, datasets, and other materials associated with our research paper (2017). | <a href="https://github.com/alexandry-augustin/mbcc">url</a> | N/A                                      |
+| Dialogue Topic Tracker | Deep Learning, Python, TensorFlow, Dialogue system           | Code and manuscript associated with our research paper (2020). | N/A                                                          | N/A                                      |
+| BJ                     | Python, C++, Multi-threading, Linux, Game                    | Fully-featured client/server blackjack game.                 | N/A                                                          | N/A                                      |
+
+# Contacts
+
+```
+      Website: alexandryaugustin.com
+      Company: augustin-consulting.co.uk
+       Github: alexandry-augustin
+     LinkedIn: linkedin.com/in/alexandryaugustin
+        Email: alexandry.augustin.jobs@gmail.com
+```
