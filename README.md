@@ -5,12 +5,14 @@ Experienced data scientist and software developer with extensive knowledge in ma
 
 # Portfolio
 
-| Project Name           | Keywords                                                     | Description                                                  | Repository                                                   | Live Demo                                        |
-| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ |
-| Professional Blog      | website, HTML, JavaScript, CSS, 11ty, nunjucks, Boostrap, Chart.js, MongoDB | Projects, blog posts, and what I'm up to generally.          | <a href="https://github.com/alexandry-augustin/professional-blog-public">url</a> | <a href="https://alexandryaugustin.com/">url</a> |
-| MBCC                   | Bayesian Statistics, Crowdsourcing, C#, LaTex                | Code, manuscript, datasets, and other materials associated with our research paper (2017). | <a href="https://github.com/alexandry-augustin/mbcc">url</a> | N/A                                              |
-| Dialogue Topic Tracker | Deep Learning, Python, TensorFlow, Dialogue system           | Code and manuscript associated with our research paper (2020). | N/A                                                          | N/A                                              |
-| BJ                     | Python, C++, Multi-threading, Linux, Game                    | Fully-featured client/server blackjack game.                 | N/A                                                          | N/A                                              |
+| Project Name                   | Keywords                                                     | Description                                                  | Repository                                                   | Live Demo                                        |
+| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ |
+| Professional Blog              | website, HTML, JavaScript, CSS, 11ty, nunjucks, Boostrap, Chart.js, MongoDB | Projects, blog posts, and what I'm up to generally.          | <a href="https://github.com/alexandry-augustin/professional-blog-public">URL</a> | <a href="https://alexandryaugustin.com/">URL</a> |
+| Algorithms and Data Structures | C++, Python                                                  | A collection of fundamental algorithms and data structures implementations | N/A                                                          | N/A                                              |
+| Design Patterns                | C++                                                          | A collection of fundamental design patterns implementations  | N/A                                                          | N/A                                              |
+| MBCC                           | Bayesian Statistics, Crowdsourcing, C#, LaTex                | Code, manuscript, datasets, and other materials associated with our research paper (2017). | <a href="https://github.com/alexandry-augustin/mbcc">URL</a> | N/A                                              |
+| Dialogue Topic Tracker         | Deep Learning, Python, TensorFlow, Dialogue system           | Code and manuscript associated with our research paper (2020). | N/A                                                          | N/A                                              |
+| BJ                             | Python, C++, Multi-threading, Linux, Game                    | Fully-featured client/server blackjack game.                 | N/A                                                          | N/A                                              |
 
 # Contacts
 
