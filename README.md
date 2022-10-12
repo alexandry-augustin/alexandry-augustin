@@ -1,5 +1,5 @@
 <h1 align="center">Alexandry Augustin, PhD</h1>
-<h3 align="center">Data Scientist and Tech Lover</h3>
+<h3 align="center">Data Scientist and Software Developer</h3>
 
 Experienced data scientist and software developer with extensive knowledge in machine learning, Bayesian statistics, Python, and C++ (PhD and postdoctoral level). I have a growing interest in advanced data visualisation to communicate complex information clearly and efficiently. I am always looking to solve new challenges with data to drive insights and make robust predictions for my clients.
 
@@ -23,7 +23,7 @@ Experienced data scientist and software developer with extensive knowledge in ma
 | Professional Blog              | HTML, JavaScript, CSS, 11ty, nunjucks, Boostrap, Chart.js, MongoDB | Projects, blog posts, and what I'm up to generally.          | <a href="https://github.com/alexandry-augustin/professional-blog-public">URL</a> | <a href="https://alexandryaugustin.com/">URL</a> |
 | Algorithms and Data Structures | C++, Python                                                  | A collection of fundamental algorithms and data structures implementations | N/A                                                          | N/A                                              |
 | Design Patterns                | C++                                                          | A collection of fundamental design patterns implementations  | <a href="https://github.com/alexandry-augustin/design_patterns">URL</a> | N/A                                              |
-| BJ                             | C++, Python, Multi-threading, Linux, Game                    | Fully-featured client/server blackjack game.                 | N/A                                                          | N/A                                              |
+| Blackjack Game                 | C++, Python, Multi-threading, Linux, Game                    | Fully-featured client/server blackjack game.                 | N/A                                                          | N/A                                              |
 | Midas                          | C++, STL, Game                                               | Midas miner speed clone game (Royal Games).                  | N/A                                                          | N/A                                              |
 
 # Contacts
