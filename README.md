@@ -32,25 +32,11 @@ research papers.
 <td><p>Year</p></td>
 </tr>
 <tr class="even">
-<td><p>Bayesian Aggregation of Categorical Distributions with Applications in Crowdsourcing</p></td>
-<td><p>Bayesian Statistics, Crowdsourcing, C#, LaTex</p></td>
-<td><p><a href="https://github.com/alexandry-augustin/mbcc">URL</a></p></td>
-<td><p><a href="https://www.ijcai.org/Proceedings/2017/195">URL</a></p></td>
-<td><p>2017</p></td>
-</tr>
-<tr class="odd">
-<td><p>Independent Bayesian Classifier Combination</p></td>
-<td><p>Bayesian Statistics, Crowdsourcing, C#, Python, WinBugs, R</p></td>
-<td><p><a href="https://github.com/alexandry-augustin/ibcc">URL</a></p></td>
+<td><p>Quantitative Strategies for the Personalisation of Antihypertensive Therapy</p></td>
+<td><p>Statistics, Monte Carlo Simulation, Health care, Python, LaTex</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-</tr>
-<tr class="even">
-<td><p>Dialogue Topic Tracker</p></td>
-<td><p>Deep Learning, Python, TensorFlow, Dialogue system, LaTex</p></td>
-<td><p>N/A</p></td>
-<td><p><a href="https://sites.google.com/view/hlds-2020/home">URL</a></p></td>
-<td><p>2020</p></td>
+<td><p>2022</p></td>
 </tr>
 <tr class="odd">
 <td><p>The Impact of Therapeutic Inertia on Long-term Blood Pressure Control</p></td>
@@ -60,11 +46,25 @@ research papers.
 <td><p>2020</p></td>
 </tr>
 <tr class="even">
-<td><p>Quantitative Strategies for the Personalisation of Antihypertensive Therapy</p></td>
-<td><p>Statistics, Monte Carlo Simulation, Health care, Python, LaTex</p></td>
+<td><p>Dialogue Topic Tracker</p></td>
+<td><p>Deep Learning, Python, TensorFlow, Dialogue system, LaTex</p></td>
 <td><p>N/A</p></td>
-<td><p>N/A</p></td>
-<td><p>2022</p></td>
+<td><p><a href="https://sites.google.com/view/hlds-2020/home">URL</a></p></td>
+<td><p>2020</p></td>
+</tr>
+<tr class="odd">
+<td><p>Bayesian Aggregation of Categorical Distributions with Applications in Crowdsourcing</p></td>
+<td><p>Bayesian Statistics, Crowdsourcing, C#, LaTex</p></td>
+<td><p><a href="https://github.com/alexandry-augustin/mbcc">URL</a></p></td>
+<td><p><a href="https://www.ijcai.org/Proceedings/2017/195">URL</a></p></td>
+<td><p>2017</p></td>
+</tr>
+<tr class="even">
+<td><p>Independent Bayesian Classifier Combination</p></td>
+<td><p>Bayesian Statistics, Crowdsourcing, C#, Python, WinBugs, R</p></td>
+<td><p><a href="https://github.com/alexandry-augustin/ibcc">URL</a></p></td>
+<td><p><a href="https://proceedings.mlr.press/v22/kim12.html">URL</a></p></td>
+<td><p>2012</p></td>
 </tr>
 <tr class="odd">
 <td><p>Parametric Approach To Bayesian Drift Estimation of Discretely Observed Price Diffusion Processes</p></td>
@@ -105,7 +105,7 @@ Software Development
 </tr>
 <tr class="odd">
 <td><p>Coding Cookbook</p></td>
-<td><p>C, C++, C#, Java, lua, Matlab, Python, R, sh, bash</p></td>
+<td><p>C, C++, C#, Java, lua, Matlab, Python, R, sh, bash, …​</p></td>
 <td><p>A collection of code snippets in a variety of programming languages</p></td>
 <td><p><a href="https://github.com/alexandry-augustin/cookbook">URL</a></p></td>
 <td><p>N/A</p></td>
