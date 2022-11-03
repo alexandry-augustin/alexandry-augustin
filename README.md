@@ -2,8 +2,7 @@
 <h3 align="center">Data Scientist and Software Developer</h3>
 
 Experienced data scientist and software developer with extensive
-knowledge in machine learning, Bayesian statistics, Python, and C++ (PhD
-and postdoctoral level).
+knowledge in machine learning, Bayesian statistics, Python, and C++.
 
 Selected Projects
 =================
@@ -41,7 +40,7 @@ research papers.
 <tr class="odd">
 <td><p>The Impact of Therapeutic Inertia on Long-term Blood Pressure Control</p></td>
 <td><p>Statistics, Monte Carlo Simulation, Health care, Python, LaTex</p></td>
-<td><p>N/A</p></td>
+<td><p><a href="https://github.com/alexandry-augustin/impact_of_therapeutic_inertia">URL</a></p></td>
 <td><p><a href="https://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.120.15866">URL</a></p></td>
 <td><p>2020</p></td>
 </tr>
