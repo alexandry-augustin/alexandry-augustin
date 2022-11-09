@@ -61,7 +61,7 @@ research papers.
 <td><p>2017</p></td>
 </tr>
 <tr class="odd">
-<td><p>Independent Bayesian Classifier Combination</p></td>
+<td><p>Bayesian Classifier Combination</p></td>
 <td><p>Bayesian Statistics, Crowdsourcing, C#, Python, WinBugs, R</p></td>
 <td><p>N/A</p></td>
 <td><p><a href="https://proceedings.mlr.press/v22/kim12.html">URL</a></p></td>
@@ -70,7 +70,7 @@ research papers.
 <tr class="even">
 <td><p>Parametric Approach To Bayesian Drift Estimation of Discretely Observed Price Diffusion Processes</p></td>
 <td><p>Time Series, Statistics, Kalman filtering, Estimation, Financial Mathematics, Matlab, LaTex</p></td>
-<td><p>N/A</p></td>
+<td><p><a href="https://github.com/alexandry-augustin/time_series_drift_estimation">URL</a></p></td>
 <td><p>N/A</p></td>
 <td><p>2011</p></td>
 </tr>
@@ -131,13 +131,6 @@ Software Development
 <td><p>Blackjack Game</p></td>
 <td><p>C++, Python, Multi-threading, Linux, Game</p></td>
 <td><p>Fully-featured client/server blackjack game.</p></td>
-<td><p>N/A</p></td>
-<td><p>N/A</p></td>
-</tr>
-<tr class="even">
-<td><p>Midas</p></td>
-<td><p>C++, STL, Game</p></td>
-<td><p>Midas miner speed clone game (Royal Games).</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 </tr>
