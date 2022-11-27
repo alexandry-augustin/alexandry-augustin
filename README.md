@@ -1,8 +1,8 @@
-<h1 align="center">Alexandry Augustin, PhD</h1>
+<h1 align="center">Alexandry Augustin</h1>
 <h3 align="center">Data Scientist and Software Developer</h3>
 
-Experienced data scientist and software developer with extensive
-knowledge in machine learning, Bayesian statistics, Python, and C++.
+Data scientist and software developer with extensive knowledge in
+machine learning, Bayesian statistics, Python, and C++.
 
 Selected Projects
 =================
@@ -67,12 +67,58 @@ research papers.
 <td><p><a href="https://proceedings.mlr.press/v22/kim12.html">URL</a></p></td>
 <td><p>2012</p></td>
 </tr>
+</tbody>
+</table>
+
+Data Science
+------------
+
+<table>
+<caption>Data Science</caption>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Project Name</th>
+<th>Keywords</th>
+<th>Description</th>
+<th>Repository</th>
+<th>Live Demo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Machine Learning</p></td>
+<td><p>Natural language processing, Computer vision, Deep Learning</p></td>
+<td><p>Collection of Machine Learning projects.</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+</tr>
+<tr class="even">
+<td><p>Statistics</p></td>
+<td><p>Bayesian Statistics, Regression, Classification</p></td>
+<td><p>Collection of Statistics projects.</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+</tr>
+<tr class="odd">
+<td><p>Learning and Evaluation of Topics via Distributional Semantics</p></td>
+<td><p>Natural language processing, distributional semantics, Deep Learning, Bayesian Statistics, Python</p></td>
+<td><p>Code and manuscript associated with <a href="https://eprints.soton.ac.uk/447272/">my PhD thesis</a> (2020).</p></td>
+<td><p>N/A</p></td>
+<td><p>N/A</p></td>
+</tr>
 <tr class="even">
 <td><p>Parametric Approach To Bayesian Drift Estimation of Discretely Observed Price Diffusion Processes</p></td>
 <td><p>Time Series, Statistics, Kalman filtering, Estimation, Financial Mathematics, Matlab, LaTex</p></td>
+<td><p>Code, manuscript, datasets, and other materials from my MSc thesis in Mathematics and Finance</p></td>
 <td><p><a href="https://github.com/alexandry-augustin/time_series_drift_estimation">URL</a></p></td>
 <td><p>N/A</p></td>
-<td><p>2011</p></td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +149,7 @@ Software Development
 <td><p>Professional Blog</p></td>
 <td><p>HTML, JavaScript, CSS, 11ty, nunjucks, Boostrap, Chart.js, MongoDB</p></td>
 <td><p>Projects, blog posts, and what I’m up to generally.</p></td>
-<td><p><a href="https://github.com/alexandry-augustin/professional-blog-public">URL</a></p></td>
+<td><p>N/A</p></td>
 <td><p><a href="https://alexandryaugustin.com/">URL</a></p></td>
 </tr>
 <tr class="even">
@@ -128,7 +174,7 @@ Software Development
 <td><p>N/A</p></td>
 </tr>
 <tr class="odd">
-<td><p>Blackjack Game</p></td>
+<td><p>Multiplayer Blackjack Game</p></td>
 <td><p>C++, Python, Multi-threading, Linux, Game</p></td>
 <td><p>Fully-featured client/server blackjack game.</p></td>
 <td><p>N/A</p></td>
