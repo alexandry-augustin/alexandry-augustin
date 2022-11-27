@@ -1,9 +1,3 @@
-<h1 align="center">Alexandry Augustin</h1>
-<h3 align="center">Data Scientist and Software Developer</h3>
-
-Data scientist and software developer with extensive knowledge in
-machine learning, Bayesian statistics, Python, and C++.
-
 Selected Projects
 =================
 
