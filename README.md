@@ -142,7 +142,7 @@ Software Development
 <tr class="odd">
 <td><p>Professional Blog</p></td>
 <td><p>HTML, JavaScript, CSS, 11ty, nunjucks, Boostrap, Chart.js, MongoDB</p></td>
-<td><p>Projects, blog posts, and what I’m up to generally.</p></td>
+<td><p>Projects, writing, and what I’m up to generally.</p></td>
 <td><p>N/A</p></td>
 <td><p><a href="https://alexandryaugustin.com/">URL</a></p></td>
 </tr>
@@ -165,13 +165,6 @@ Software Development
 <td><p>C++, Java</p></td>
 <td><p>A collection of fundamental design patterns implementations.</p></td>
 <td><p><a href="https://github.com/alexandry-augustin/design_patterns">URL</a></p></td>
-<td><p>N/A</p></td>
-</tr>
-<tr class="odd">
-<td><p>Multiplayer Blackjack Game</p></td>
-<td><p>C++, Python, Multi-threading, Linux, Game</p></td>
-<td><p>Fully-featured client/server blackjack game.</p></td>
-<td><p>N/A</p></td>
 <td><p>N/A</p></td>
 </tr>
 </tbody>
